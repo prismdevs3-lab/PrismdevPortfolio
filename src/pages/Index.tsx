@@ -12,10 +12,10 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>DevForge | Expert Web Development Team</title>
+        <title>Prism Devs | Expert Web Development Team</title>
         <meta
           name="description"
-          content="DevForge is a passionate team of developers and designers creating high-performance websites and applications. Get custom web solutions tailored to your business needs."
+          content="Prism Devs is a passionate team of developers and designers creating high-performance websites and applications. Get custom web solutions tailored to your business needs."
         />
         <meta name="keywords" content="web development, web design, react, frontend, backend, full stack, mobile apps" />
       </Helmet>
