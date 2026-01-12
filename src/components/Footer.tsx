@@ -16,7 +16,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="lg:col-span-2">
             <a href="#" className="font-heading text-2xl font-bold text-gradient">
-              DevForge
+              PrismDev
             </a>
             <p className="text-muted-foreground mt-4 max-w-sm">
               Building exceptional digital experiences that help businesses grow and succeed in the modern world.
@@ -88,10 +88,10 @@ const Footer = () => {
 
         <div className="border-t border-border mt-12 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-muted-foreground text-sm">
-            © {currentYear} DevForge. All rights reserved.
+            © {currentYear} PrismDev. All rights reserved.
           </p>
           <p className="text-muted-foreground text-sm">
-            Crafted with passion in San Francisco
+            Crafted with passion in LA
           </p>
         </div>
       </div>
