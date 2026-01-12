@@ -6,7 +6,7 @@ import { Mail, MapPin, Phone, Send } from "lucide-react";
 import { useState } from "react";
 import { z } from "zod";
 
-const FORMSPREE_ENDPOINT = "https://formspree.io/f/mvzzoqqd";
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/xwvvkqwy";
 
 const contactSchema = z.object({
   name: z.string().trim().min(1, "Name is required"),
