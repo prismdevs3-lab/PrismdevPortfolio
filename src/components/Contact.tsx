@@ -108,7 +108,7 @@ const Contact = () => {
               <Mail className="w-5 h-5" /> prismdevs3@gmail.com
             </div>
             <div className="flex items-center gap-4 text-muted-foreground">
-              <Phone className="w-5 h-5" /> +234 91511 49866
+              <Phone className="w-5 h-5" /> +234 91511 49866 / +234 70683 83089
             </div>
             <div className="flex items-center gap-4 text-muted-foreground">
               <MapPin className="w-5 h-5" /> Lagos, Nigeria
